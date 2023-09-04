@@ -76,7 +76,7 @@
     "training_enable_tensorboard": false,
     "training_tensorboard_save_images": false,
     "training_tensorboard_flush_every": 120,
-    "sd_model_checkpoint": "sd_xl_base_1.0.safetensors [4bc26d77a8]",
+    "sd_model_checkpoint": "juggernautXL_version2.safetensors [700528894b]",
     "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 0,
     "sd_vae": "Automatic",
